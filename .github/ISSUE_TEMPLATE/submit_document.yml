@@ -1,0 +1,83 @@
+name: Submit an eBook or PDF
+description: Submit a new eBook or PDF document to the library.
+title: "[New Submission]: "
+labels: ["new", "document"]
+assignees:
+  - justinhartman
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to submit a document to this library. Please complete the details below to have your document included. 
+        **Please ensure you have the author's permission to submit the document to this library to ensure there is no break of copyright!**
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: me@example.com
+    validations:
+      required: false
+  - type: input
+    id: filename
+    attributes:
+      label: eBook / PDF Title
+      description: What is the title of this PDF or eBook?
+      placeholder: Interaction Design Trends 2023
+    validations:
+      required: true
+  - type: input
+    id: fileauthor
+    attributes:
+      label: Author
+      description: Who wrote this item?
+      placeholder: Jane Doe
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Document Category
+      description: Which category best describes this document?
+      options:
+        - Collaboration
+        - Interaction Design
+        - Introductory Books
+        - Marketing & Conversion
+        - Mobile Design
+        - Style Guides
+        - Typography
+        - Usability Testing
+        - User Experience Design
+        - User Interface Design
+        - Web Design
+        - Wireframes, Mockups, Prototypes
+        - Other (please suggest category below)
+    validations:
+      required: true
+  - type: input
+    id: categoryother
+    attributes:
+      label: Other Category
+      description: If you selected "Other" please suggest a new name for a category that best describes this document.
+      placeholder: Ecommerce
+    validations:
+      required: false
+  - type: dropdown
+    id: author
+    attributes:
+      label: Are you the Author?
+      description: Please tell us if this is your document.
+      options:
+        - Yes, I wrote it
+        - No, I found it elsewhere
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Copyright Statement
+      description: |
+        By submitting this document, you agree that you either have the full rights, or have sought the fill rights to 
+        share this document publicly with the rest of the world.
+      options:
+        - label: I agree that I have the permission needed to share this document publicly!
+          required: true
