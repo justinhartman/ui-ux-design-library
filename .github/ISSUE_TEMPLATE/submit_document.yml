@@ -8,9 +8,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to submit a document to this library. Please complete the details below to have your 
-        document included. **Please ensure you have the author's permission to submit the document to this library to 
-        ensure there is no copyright infringement!**
+        Thanks for taking the time to submit a document to this library. Please complete the details below to have your document included. 
+        **Please ensure you have the author's permission to submit the document to this library to ensure there is no copyright infringement!**
   - type: input
     id: contact
     attributes:
@@ -86,8 +85,7 @@ body:
     attributes:
       label: Copyright Statement
       description: |
-        By submitting this document, you agree that you either have the full rights, or have sought the fill rights to 
-        share this document publicly with the rest of the world.
+        By submitting this document, you agree that you either have the full rights, or have sought the fill rights to share this document publicly.
       options:
         - label: I agree that I have the permission needed to share this document publicly!
           required: true
