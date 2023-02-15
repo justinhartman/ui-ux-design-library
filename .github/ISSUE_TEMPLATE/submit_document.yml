@@ -8,8 +8,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to submit a document to this library. Please complete the details below to have your document included. 
-        **Please ensure you have the author's permission to submit the document to this library to ensure there is no break of copyright!**
+        Thanks for taking the time to submit a document to this library. Please complete the details below to have your 
+        document included. **Please ensure you have the author's permission to submit the document to this library to 
+        ensure there is no copyright infringement!**
   - type: input
     id: contact
     attributes:
@@ -19,7 +20,7 @@ body:
     validations:
       required: false
   - type: input
-    id: filename
+    id: title
     attributes:
       label: eBook / PDF Title
       description: What is the title of this PDF or eBook?
@@ -27,7 +28,7 @@ body:
     validations:
       required: true
   - type: input
-    id: fileauthor
+    id: author
     attributes:
       label: Author
       description: Who wrote this item?
@@ -56,7 +57,7 @@ body:
     validations:
       required: true
   - type: input
-    id: categoryother
+    id: other
     attributes:
       label: Other Category
       description: If you selected "Other" please suggest a new name for a category that best describes this document.
@@ -64,13 +65,22 @@ body:
     validations:
       required: false
   - type: dropdown
-    id: author
+    id: owner
     attributes:
-      label: Are you the Author?
+      label: Are you the Author or Owner?
       description: Please tell us if this is your document.
       options:
-        - Yes, I wrote it
+        - Yes, this is mine
         - No, I found it elsewhere
+    validations:
+      required: true
+  - type: textarea
+    id: attachment
+    attributes:
+      label: Attach your file(s)
+      description: "You can drag and drop your files into the text editor below to attach them to this submission"
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
