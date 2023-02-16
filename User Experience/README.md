@@ -1,6 +1,6 @@
 # User Experience (UX) Contents
 
-The following books and PDF documents are contained in the **User Experience (UX)** Section.
+The following books and PDF documents are contained in the **User Experience (UX) Design** Section.
 
 ---
 

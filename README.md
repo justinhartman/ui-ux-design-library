@@ -17,6 +17,7 @@ Click on any category link below to view a list of books with thumbnails contain
 
 - [Introductory Books][introductory]
 - [User Experience (UX) Design][ux]
+- [User Interface (UI) Design][ui]
 - [Interaction Design][ixd]
 - [Mobile Design][mobile]
 - [Usability Testing][usability]
