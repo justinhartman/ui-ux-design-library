@@ -17,8 +17,9 @@ Click on any category link below to view a list of books with thumbnails contain
 
 - [Introductory Books][introductory]
 - [Interaction Design][ixd]
-- [Collaboration][collaboration]
+- [Mobile Design][mobile]
 - [Marketing & Conversion][marketing]
+- [Collaboration][collaboration]
 
 ## Copyright
 
@@ -34,7 +35,15 @@ please [reach out to me personally][email] and I will ensure this is resolved im
 
 [submit]: https://github.com/justinhartman/ui-ux-design-library/issues/new?assignees=justinhartman&labels=new%2Cdocument&template=submit_document.yml&title=%5BNew+Submission%5D%3A+
 [email]: mailto:zb7qb0i3@anonaddy.me?subject=GitHub%20Document%20Library
-[introductory]: ./Introductory%20Books/README.md "Click here for Introductory books"
-[ixd]: ./Interaction%20Design/README.md "Click here for Interaction Design books"
 [collaboration]: ./Collaboration/README.md "Click here for Collaboration books"
+[ixd]: ./Interaction%20Design/README.md "Click here for Interaction Design books"
+[introductory]: ./Introductory%20Books/README.md "Click here for Introductory books"
 [marketing]: ./Marketing%20&%20Conversion/README.md "Click here for Marketing & Conversion books"
+[mobile]: ./Mobile%20Design/README.md "Click here for Mobile Design books"
+[style]: ./Style%20Guides/README.md "Click here for Style Guides books"
+[typography]: ./Typography/README.md "Click here for Typography books"
+[usability]: ./Usability%20Testing/README.md "Click here for Usability Testing books"
+[ux]: ./User%20Experience/README.md "Click here for UX books"
+[ui]: ./User%20Interface/README.md "Click here for UI books"
+[web]: ./Web%20Design/README.md "Click here for Web Design books"
+[wireframes]: ./Wireframes,%20Mockups,%20Prototypes/README.md "Click here for Wireframe, Mockups and Prototypes books"
