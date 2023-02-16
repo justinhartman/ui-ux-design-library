@@ -20,6 +20,7 @@ Click on any category link below to view a list of books with thumbnails contain
 - [User Interface (UI) Design][ui]
 - [Interaction Design][ixd]
 - [Mobile Design][mobile]
+- [Web Design][web]
 - [Usability Testing][usability]
 - [Marketing & Conversion][marketing]
 - [Collaboration][collaboration]
