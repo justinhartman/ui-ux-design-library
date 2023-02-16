@@ -13,7 +13,7 @@ If you are an author, or have a book you'd like to add to this library, feel fre
 
 ## Library Category Contents
 
-Click on any category link below to view a list of books with thumbnails contained within each category:
+Click on any category link below to view a list of books with thumbnails:
 
 - [Introductory Books][introductory]
 - [User Experience (UX) Design][ux]
@@ -21,23 +21,27 @@ Click on any category link below to view a list of books with thumbnails contain
 - [Interaction Design][ixd]
 - [Mobile Design][mobile]
 - [Web Design][web]
+- [Wireframes, Mockups & Prototypes][wireframes]
+- [Style Guides][style]
+- [Typography][typography]
 - [Usability Testing][usability]
 - [Marketing & Conversion][marketing]
 - [Collaboration][collaboration]
-- [Style Guides][style]
-- [Typography][typography]
 
 ## Copyright
 
 Any text, logos, trademarks, copyright, or images remain the intellectual property of the respective author, or authors, 
-and this project and it's contributors do not claim any affiliation, connection, or ownership to any of the materials 
+while this project and it's contributors do not claim any affiliation, connection, or ownership to any of the materials 
 found here.
 
 The initial collection of documents that populate this library were taking from publicly downloaded sources online and 
 further documents have been submitted by contributors over time. Making these documents available here is not intended 
-to infringe on the rights of any authors, however, that is not to say that an infringement may have unintentionally 
-been created in sharing these documents. If there has been any breach of your rights, for whatever reason, 
-please [reach out to me personally][email] and I will ensure this is resolved immediately. 
+to infringe on the rights of any authors, however, this is not to say that an infringement may have unintentionally 
+been created in sharing these documents. If there has been any breach of your rights, for whatever reason, please
+[reach out to me personally][email] and I will ensure this is resolved immediately.
+
+
+[//]: # (Because managing links in a document can be cumbersome, we've included references below for all of them.)
 
 [submit]: https://github.com/justinhartman/ui-ux-design-library/issues/new?assignees=justinhartman&labels=new%2Cdocument&template=submit_document.yml&title=%5BNew+Submission%5D%3A+
 [email]: mailto:zb7qb0i3@anonaddy.me?subject=GitHub%20Document%20Library
@@ -52,4 +56,4 @@ please [reach out to me personally][email] and I will ensure this is resolved im
 [ux]: ./User%20Experience/README.md "Click here for UX books"
 [ui]: ./User%20Interface/README.md "Click here for UI books"
 [web]: ./Web%20Design/README.md "Click here for Web Design books"
-[wireframes]: ./Wireframes,%20Mockups,%20Prototypes/README.md "Click here for Wireframe, Mockups and Prototypes books"
+[wireframes]: ./Wireframes,%20Mockups,%20Prototypes/README.md "Click here for Wireframe, Mockups & Prototypes books"
