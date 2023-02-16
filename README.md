@@ -20,6 +20,8 @@ Click on any category link below to view a list of books with thumbnails contain
 - [Mobile Design][mobile]
 - [Marketing & Conversion][marketing]
 - [Collaboration][collaboration]
+- [Style Guides][style]
+- [Typography][typography]
 
 ## Copyright
 
