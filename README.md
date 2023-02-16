@@ -18,6 +18,7 @@ Click on any category link below to view a list of books with thumbnails contain
 - [Introductory Books][introductory]
 - [Interaction Design][ixd]
 - [Collaboration][collaboration]
+- [Marketing & Conversion][marketing]
 
 ## Copyright
 
@@ -36,3 +37,4 @@ please [reach out to me personally][email] and I will ensure this is resolved im
 [introductory]: ./Introductory%20Books/README.md "Click here for Introductory books"
 [ixd]: ./Interaction%20Design/README.md "Click here for Interaction Design books"
 [collaboration]: ./Collaboration/README.md "Click here for Collaboration books"
+[marketing]: ./Marketing%20&%20Conversion/README.md "Click here for Marketing & Conversion books"
