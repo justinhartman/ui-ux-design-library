@@ -18,6 +18,7 @@ Click on any category link below to view a list of books with thumbnails contain
 - [Introductory Books][introductory]
 - [Interaction Design][ixd]
 - [Mobile Design][mobile]
+- [Usability Testing][usability]
 - [Marketing & Conversion][marketing]
 - [Collaboration][collaboration]
 - [Style Guides][style]
