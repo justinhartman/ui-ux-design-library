@@ -30,11 +30,11 @@ Click on any category link below to view a list of books with thumbnails:
 
 ## Copyright
 
-Any text, logos, trademarks, copyright, or images remain the intellectual property of the respective author, or authors, 
-while this project and it's contributors do not claim any affiliation, connection, or ownership to any of the materials 
+Any text, logos, trademarks, copyright, or images remain the intellectual property of the respective author, or authors; 
+while this project and its contributors do not claim any affiliation, connection, or ownership to any of the materials 
 found here.
 
-The initial collection of documents that populate this library were taking from publicly downloaded sources online and 
+The initial collection of documents that populate this library were taken from publicly downloaded sources online and 
 further documents have been submitted by contributors over time. Making these documents available here is not intended 
 to infringe on the rights of any authors, however, this is not to say that an infringement may have unintentionally 
 been created in sharing these documents. If there has been any breach of your rights, for whatever reason, please
