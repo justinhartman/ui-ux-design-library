@@ -16,6 +16,7 @@ If you are an author, or have a book you'd like to add to this library, feel fre
 Click on any category link below to view a list of books with thumbnails contained within each category:
 
 - [Introductory Books][introductory]
+- [User Experience (UX) Design][ux]
 - [Interaction Design][ixd]
 - [Mobile Design][mobile]
 - [Usability Testing][usability]
